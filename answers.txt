@@ -38,4 +38,3 @@
 5. Alerts and monitoring across all of the mentioned components
     
     For alerts we can write customized scripts using shell or python depends on the scenario and we can intigrate to mail or any communication channel. And for monitoring tools like ELK,Grafana and Datadog  helps in monitoring the application and instances and other usages CPU,memory,disk usage,DB total connections,DB-avergae cpu usage,even cloud service providers also has the set up for performance montitoring for each the component what they provide.
-          
